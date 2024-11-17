@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Iguazú Falls",
+        "address": "Misiones, Argentina ",
+        "description": "Altogether, the 275 cascades on the Argentina-Brazil border form a mind-blowing, panoramic waterfall. The overwhelming sight of Iguazú Falls, combined with the sound and energy of water rushing at up to 450,000 cubic feet per second in the rainy season, is pure magnificence.",
+        "image_url": "https://www.travelandleisure.com/thmb/6bEkGIoCLDPIxPF6sn-Y-k0J504=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iguazu-falls-argentina-brazil-2-MOSTBEAUTIFUL0921-aec01087d3e74265958dee0b09061661.jpg",
+        "entry_fee_usd": 10,
+        "rating": 4.8
+    },
+    {
+        "name": "Fairy Meadows National Park",
+        "address": "Gilgit-Baltistan, Pakistan",
+        "description": "Near the foot of the world's ninth-highest mountain (Nanga Parbat), Pakistan's Fairy Meadows offers sublime mountain scenery and wildlife, including brown bears, markhor, and Himalayan ibex. To get to Fairy Meadows, you’ll have to hire a Jeep but be forewarned, the road there is not for the faint of heart.",
+        "image_url": "https://www.travelandleisure.com/thmb/JvI_2fj82BLmkgr0rnAa9HZZ9OY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NangaParbat-b96d13f27b9c4e3e8d20d146bbe3b5e0.jpg",
+        "entry_fee_usd": 15,
+        "rating": 4.9
+    },
+    {
+        "name": "Grand Canyon",
+        "address": " Arizona, Amerika Serikat",
+        "description": "Offering some of the most spectacular scenery on the planet, the Grand Canyon truly merits the term 'breathtaking.' The vast geologic wonderland, one mile deep and up to 18 miles across, displays countless layers of colorful rock and practically hypnotic vistas.",
+        "image_url": "https://www.travelandleisure.com/thmb/zhmXPzVXsc3pUHWj8WJsSTookIs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GrandCanyon_DonEim03-9ed8c918096f46ab91a58fa983f9e713.jpg",
+        "entry_fee_usd": 6,
+        "rating": 4.4
+    },
+    {
+        "name": "Anse Source d'Argent",
+        "address": "Seychelles",
+        "description": "Pinpointing the most beautiful Seychellois beach is like splitting hairs, but Anse Source d'Argent gets extremely high marks for its sugar-white sand framed by dramatic granite boulders and sparkling aquamarine water. The sweet shoreline is relatively secluded from the resort crowds on La Digue Island.",
+        "image_url": "https://www.travelandleisure.com/thmb/gGi6BJIE1ZhCIKCrk8DQEPDf_jo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/anse-source-dargent-seychelles-MOSTBEAUTIFUL0921-6086f0b731944230a748d0f1fec13acf.jpg",
+        "entry_fee_usd": 8,
+        "rating": 3.8
+    },
+    {
+        "name": "Railay West Beach",
+        "address": "Provinsi Krabi, Thailand",
+        "description": "On the Railay peninsula's west side, Krabi's famous karsts meet a simply stunning jade-green lagoon. The vertical cliffs block access from the Krabi mainland, making Railay reachable only by boat, adding to its incredible appeal.",
+        "image_url": "https://www.travelandleisure.com/thmb/hoCm0dgwtjriANnlLagFnTqfYpM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1157710421-745a12e29ef5472c84b6b59f1ae8f03c.jpg",
+        "entry_fee_usd": 10,
+        "rating": 4.6
+    },
+    {
+        "name": "Torres del Paine National Park",
+        "address": "Magallanes and Chilean Antarctica, Cile",
+        "description": "There's no better way to experience Patagonia's rugged natural beauty than in Torres del Paine National Park. The UNESCO Biosphere Reserve is home to its namesake granite towers (the park's name is a combination of the Spanish word for “towers” and the Tehuelche word for “blue”), as well as sparkling lagoons and otherworldly glaciers.",
+        "image_url": "https://www.travelandleisure.com/thmb/jKZDxZIcpTaM7icIJYKiBHVhBIw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/torres-del-paine-national-park-chile-MOSTBEAUTIFUL0921-4dfe4d2e67aa4f28ace7cf7cd21f4c8c.jpg",
+        "entry_fee_usd": 12,
+        "rating": 3.9
+    },
+    {
+        "name": "Bagan",
+        "address": "Myanmar",
+        "description": "It's hard to truly grasp the magnitude of Myanmar's Bagan Archaeological Zone, dominated by thousands of temples, pagodas, and stupas. Explore the UNESCO World Heritage Site on a bike, or for an eagle's-eye view, take a hot-air balloon ride at sunrise to see the temples scattered across the lush landscape.",
+        "image_url": "https://www.travelandleisure.com/thmb/ho-fEQMuBJm2iMTZlRfw2Rterro=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bagan-myanmar-MOSTBEAUTIFUL0921-7de032dd5a894dbc970896d65fc0283b.jpg",
+        "entry_fee_usd": 14,
+        "rating": 4.3
+    },
+    {
+        "name": "Monteverde Cloud Forest Biological Reserve",
+        "address": "Monteverde, Costa Rica",
+        "description": "This magical, misty, and well-preserved cloud forest in northwestern Costa Rica is a successful template for sustainable ecotourism. Along with its sister cloud forest, the Santa Elena Reserve, Monteverde is a practically untouched paradise home to thousands of plant, animal, and bird species (including the radiant quetzal), visible from jungle paths and nail-biting steel bridges hanging over the canopy.",
+        "image_url": "https://www.travelandleisure.com/thmb/kG47pSbU_SfNzVcksg0Naj0wOzE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/monteverde-cloud-forest-biological-reserve-costa-rica-MOSTBEAUTIFUL0921-12355ee5f2344bbbbe826e68511eb795.jpg",
+        "entry_fee_usd": 16,
+        "rating": 3.9
+    },
+    {
+        "name": "Victoria Falls",
+        "address": "Zambia and Zimbabwe",
+        "description": "One of the world's largest waterfalls, Victoria Falls spans the Zimbabwe and Zambia borders. As a destination, 'The Smoke That Thunders,' as it is known in the Bantu language family, is a hub for white-water rafting, helicopter rides, big-game safaris, and other thrilling adventures.",
+        "image_url": "https://www.travelandleisure.com/thmb/18Z3yXaDJFxtr4aTWoik6zqg96Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/victoria-falls-zimbabwe-zambia-MOSTBEAUTIFUL0921-0c0230b660a04cbabe6a1536df38a313.jpg",
+        "entry_fee_usd": 18,
+        "rating": 4.7
+    },
+    {
+        "name": "Whitehaven Beach",
+        "address": "Queensland, Australia",
+        "description": "Whitehaven Beach mesmerizes from above with swirls of white and blue hiding amid the offshore islands of Queensland. Part of Australia's Whitsunday Coast, the star attraction is remarkable for its amazing combination of pure silica sands and vivid blue-green waters.",
+        "image_url": "https://www.travelandleisure.com/thmb/DgvUxh6EJiHT5uKUIaYdaVMkT90=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/whitehaven-beach-australia-WHITESAND1017-b0b5e8c0a3304727a70af7ddf29edce3.jpg",
+        "entry_fee_usd": 20,
+        "rating": 4.5
+    },
+    {
+        "name": "Avenue of the Baobabs",
+        "address": "RN8, Madagaskar",
+        "description": "On a dirt road near the west coast town of Morondava is a stretch of tall and ancient baobab trees unique to Madagascar, and all that remains of a once-dense forest. The centuries-old giants are especially magnificent cast in the light of a sunrise and sunset.",
+        "image_url": "https://www.travelandleisure.com/thmb/WtI4VOVxh8Cl2TN2Yh47455fBA8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/avenue-of-the-baobabs-madagascar-MOSTBEAUTIFUL0921-9018225e787e4539b1294976f7a2baf4.jpg",
+        "entry_fee_usd": 22,
+        "rating": 4.2
+    },
+    {
+        "name": "Hạ Long Bay",
+        "address": "Quang Ninh, Vietnam",
+        "description": "With hundreds of jungle-covered karst cliffs rising out of emerald green waters, Hạ Long Bay is a photographer's dream. Hop on a boat or kayak to explore the UNESCO World Heritage Site's beautiful islands and surreal cave systems.",
+        "image_url": "https://www.travelandleisure.com/thmb/DREDJc4jDeRASLnc-9e-SHZTGvY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ha-long-bay-vietnam-MOSTBEAUTIFUL0921-910a3a82a03f4bb59d49290fbdc2a6db.jpg",
+        "entry_fee_usd": 25,
+        "rating": 3.9
+    },
+    {
+        "name": "Lake Atitlán",
+        "address": "Guatemala",
+        "description": "Lake Atitlán in the Sierra Madres offers a combination of Indigenous culture and waterside serenity. It likely comes as no surprise that a place this tranquil is also a popular destination for yoga retreats. Cross the gorgeous crater lake by boat and explore various pueblos, shop local markets for Mayan crafts, and sleep in treehouse accommodations.",
+        "image_url": "https://www.travelandleisure.com/thmb/U2lq9K-XoQ5njpv0W8OSQgQ4hjE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LakeAtitlan_NicholasSchmidt07-1cb128039976489c9afefe215927347e.jpg",
+        "entry_fee_usd": 30,
+        "rating": 4.1
+    },
+    {
+        "name": "Le Morne Brabant",
+        "address": "Mauritius",
+        "description": "A freestanding basaltic mountain hulking over a bright blue-green Indian Ocean lagoon certainly makes for spectacular scenery. When viewed from above, the surrounding sand and silt form an optical illusion that appears to be a massive underwater waterfall at this mythic place — and there is a fascinating history to uncover. Thanks to its isolation and near-inaccessibility, Le Morne sheltered people who escaped enslavement during the 18th and early 19th centuries.",
+        "image_url": "https://www.travelandleisure.com/thmb/WLNYXcfloCFv-R0GZ1XdqVk6biI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/aerial-le-morne-brabant-mauritius-UNDERWATERFALL0417-3d01a7cc5c28428daaa25a702d6bd90c.jpg",
+        "entry_fee_usd": 21,
+        "rating": 3.8
+    },
+    {
+        "name": "Acadia National Park",
+        "address": "Maine5",
+        "description": "From rocky shorelines shrouded in mist to conifer-cloaked mountainsides, Acadia National Park is a wild place of sea, stone, and forest. Visitors flock here to hike, fish, climb, camp, and experience the end-of-the-world feel in New England's only national park.",
+        "image_url": "https://www.travelandleisure.com/thmb/wQ9Jq8cDLwCpK_O-mphRFaG4_70=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/acadia-national-park-maine-MOSTBEAUTIFUL0921-0acc3c3b963f4b85888277cc1269deb2.jpg",
+        "entry_fee_usd": 20,
+        "rating": 4.7
+    },
+    {
+        "name": "Okavango Delta",
+        "address": "Botswana",
+        "description": "The mighty Okavango, the largest inland delta in the world, is a vast network of winding waterways and animal-attracting lagoons. Navigating through reed-studded channels in a mokoro (traditional canoe) and spotting hippos, leopards, and elephants is one of the world's great travel experiences for nature lovers.",
+        "image_url": "https://www.travelandleisure.com/thmb/Wwx9S2_51d3Ao6JKyPcpisgXuGc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/okavango-delta-botswana-MOSTBEAUTIFUL0921-e3b2c6640eb6481ba891be8b5570d2c3.jpg",
+        "entry_fee_usd": 32,
+        "rating": 4.6
+    },
+    {
+        "name": "Maasai Mara",
+        "address": "Kenya",
+        "description": "This famed wildlife preserve (next door neighbor to the Serengeti) is one of the world's most enchanting ecosystems. The Mara's golden grasslands stretch to the horizon, interrupted by graceful acacia trees and rumbling throngs of wildebeest and zebra — and their stalking predators.",
+        "image_url": "https://www.travelandleisure.com/thmb/vD9-E78q_jPRa9zo1DHM-iAnSmI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-126386538-59d5d7a7396e5a00107a4314.jpg",
+        "entry_fee_usd": 18,
+        "rating": 4.4
+    },
+    {
+        "name": "Cat Island",
+        "address": "The Bahamas",
+        "description": "Cat Island is a secret nirvana hiding in plain sight in the Bahamas. Sparsely developed and off the main tourist track, Cat Island is resplendent in miles of nature trails and wondrous pink sands sprawling under the Caribbean sun. Far from the mega-resort scene of busier islands, the mood on Cat Island is very laid back, so expect to find local vibes and small family-owned hotels.",
+        "image_url": "https://www.travelandleisure.com/thmb/Uvwf1RVx_6bRqOwVaj1xxGTHt3o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cat-island-bahamas-MOSTBEAUTIFUL0921-c744a64945174dc3b231adf2445d528d.jpg",
+        "entry_fee_usd": 30,
+        "rating": 4.0
+    },
+    {
+        "name": "Zhangye National Geopark",
+        "address": "China",
+        "description": "Distinct rolling bands of orange, cream, yellow, brown, and russet against jagged mountain peaks make this geological anomaly in the Northwestern province of Gansu look like a psychedelic scene on Mars. Boardwalks have been built throughout the park allowing visitors to see the stripes up close.",
+        "image_url": "https://www.travelandleisure.com/thmb/bO5G-7zThBxCNsMah3-LsGbGSbI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zhangye-danxia-landform-geological-park-china-MOSTBEAUTIFUL0921-07dc8f6d82484f3cac2ec37534673c60.jpg",
+        "entry_fee_usd": 21,
+        "rating": 4.4
+    },
+    {
+        "name": "Glencoe",
+        "address": "Scotland",
+        "description": "The Scottish Highlands are filled with astonishingly scenic glens, but Glencoe Valley is perhaps the most famous (and infamous, due to a brutal 17th-century massacre that marked a pivotal moment in Scottish history). Today the valley is a haven for hikers, mountaineers, and whisky lovers — the 19th-century Ben Nevis Distillery is a short drive away.",
+        "image_url": "https://www.travelandleisure.com/thmb/aI8SDQ03Ey3JerZAtCYsZPGW68c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/glencoe-scotland-MOSTBEAUTIFUL0921-3e33457bc6cf4bdebc9e58d77dc0a420.jpg",
+        "entry_fee_usd": 17,
+        "rating": 4.2
+    },
+    {
+        "name": "Mount Kōya",
+        "address": "Wakayama, Jepang",
+        "description": "The Buddhist monk Kobo Daishi founded this mountaintop temple town in 819. Today, the sacred and serene place is part of a UNESCO World Heritage Site and contains more than 100 temples, including the head temple Kongobuji, featuring gorgeous gilded sliding doors and ceilings carved with flowers. Within the ancient complex is a mausoleum and cemetery surrounded by a cedar forest with old-growth trees up to 600 years old.",
+        "image_url": "https://www.travelandleisure.com/thmb/miQO2PZvIyUGeOmoycZGhn0J5_M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/koyasan-japan-MOSTBEAUTIFUL0921-4e095475f06647adb7a1f14365b16923.jpg",
+        "entry_fee_usd": 26,
+        "rating": 4.5
+    },
+    {
+        "name": "Dead Sea",
+        "address": "Jordan, Palestine, and Israel",
+        "description": "Name aside, the Dead Sea is a lake and one of the world's saltiest, at that. (In fact, the saline water has such a high density that it keeps bathers afloat.) Set between Jordan, Palestine, and Israel at the Earth's lowest elevation, it's known for its beautifully clear and tranquil waters (with nearly 10 times more saline than the ocean) and its surrounding mineral formations, sandy beaches, nature preserves, natural pools, and waterfalls.",
+        "image_url": "https://www.travelandleisure.com/thmb/28cZyHjLbwOuAyeLO2WGUai25Ww=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-dead-sea-MOSTBEAUTIFUL0921-346f61ea1e424985bcd0bd628e04bfe4.jpg",
+        "entry_fee_usd": 22,
+        "rating": 4.1
+    },
+    {
+        "name": "Zion National Park",
+        "address": "Utah",
+        "description": "Glorious Navajo Sandstone cliffs, rainbow-colored canyons, and incredible biodiversity make Zion one of the most popular (and most scenic) national parks in the U.S. Utah is famous for its many gorgeous national parks, but in Zion, you can enjoy unique hikes like The Narrows, a slot canyon trail following Virgin River upstream — just make sure you go in the right season.",
+        "image_url": "https://www.travelandleisure.com/thmb/6Rir4An27DDQBhsyymFurKX5cNE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-688741770-8d204ae54180456f9eac53c609727bbe.jpg",
+        "entry_fee_usd": 19,
+        "rating": 4.4
+    },
+    {
+        "name": "Vatnajökull National Park",
+        "address": "Iceland",
+        "description": "Dominated by a 3,000-square-mile ice cap of the same name, Vatnajökull is a chilly, Icelandic wonderland of caves, craters, glacier-filled calderas, and waterfalls. Perhaps the most famous cascade is Svartifoss, plunging over hexagonal lava-rock columns.",
+        "image_url": "https://www.travelandleisure.com/thmb/nqRQVd4DRAKvKPjMz5VUzQE9uMk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/svartifoss-waterfall--skaftafell--vatnajokull-national-park--iceland-760156129-59efb6ca0d327a00104e99ab.jpg",
+        "entry_fee_usd": 25,
+        "rating": 4.6
+    },
+    {
+        "name": "Pamukkale",
+        "address": "Denizli, Turki",
+        "description": "Pamukkale's electric-blue thermal pools and white travertine formations, naturally formed by slowly crystallizing calcium carbonate, make for gorgeous vacation photos. Its location is quite remote, so you will need to set aside a day or two for this special trip, but with steaming hot waters and a name that translates from Turkish to 'cotton castles,' it's worth the experience as well as the view.",
+        "image_url": "https://www.travelandleisure.com/thmb/FDlkxXGz_s0CiomzqAl__87CQcY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pamukkale-turkey-MOSTBEAUTIFUL0921-5d8d59fa8ac34059b75a7470b0a37e5a.jpg",
+        "entry_fee_usd": 31,
+        "rating": 4.9
+    },
+    {
+        "name": "Nā Pali Coast State Wilderness Park",
+        "address": "Hawaii, Amerika Serikat",
+        "description": "Nā Pali translates to 'the cliffs' in Hawaiian, a deceptively simple name that might not fully prepare travelers for the epic glory on display on the Kauai coast. The staggering coastline is too rugged and vertical for road access, so the only way to see it is by boat, air, or seriously intense hiking trails.",
+        "image_url": "https://www.travelandleisure.com/thmb/OEriWSBP3sgIamh_745tW3NaPkg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/na-pali-coast-wilderness-state-park-hawaii-MOSTBEAUTIFUL0921-dceaaadc79b844e3a75f7379e0c3869e.jpg",
+        "entry_fee_usd": 41,
+        "rating": 4.2
+    },
+    {
+        "name": "Table Mountain",
+        "address": "Cape Town, South Africa.",
+        "description": "Ascending iconic Table Mountain tops the to-do list for most travelers in Cape Town. Adventurous hikers can go on foot, but there's also an aerial cableway that gently sweeps up to the 3,563-foot summit. Either way, the top offers insane panoramic views of the South African capital and the Atlantic.",
+        "image_url": "https://www.travelandleisure.com/thmb/wZZq6V4NFqGH1Z7eSkTD1Mk6m8I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/table-mountain-cape-town-MOSTBEAUTIFUL0921-0469c476a33749b6999af7e35e88afec.jpg",
+        "entry_fee_usd": 24,
+        "rating": 4.7
+    },
+    {
+        "name": "Machu Picchu",
+        "address": "Cusco, Peru",
+        "description": "Built nearly 8,000 feet above sea level, Machu Picchu is a 15th-century Incan citadel whose engineering ingenuity and head-spinning views rival the extraordinary beauty of its Sacred Valley setting. It may be a hotspot for tourism now, but the rest of the world has only known about its existence since it was rediscovered in 1911.",
+        "image_url": "https://example.com/destination28.jpg",
+        "entry_fee_usd": 41,
+        "rating": 3.5
+    },
+    {
+        "name": "Destination 29",
+        "address": "City 29, Country 29",
+        "description": "This is a placeholder description for Destination 29.",
+        "image_url": "https://www.travelandleisure.com/thmb/YNv3l3tL9KVYeEG9i5hMF28SViU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/machu-picchu-peru-MOSTBEAUTIFUL0921-5d3295e7c6ca44018d5f20c8f50249cd.jpg",
+        "entry_fee_usd": 23,
+        "rating": 4.5
+    },
+    {
+        "name": "Lucerne",
+        "address": "Lucerne, Switzerland",
+        "description": "Picture a serene alpine lake fringed with soaring Alps. Now add in a walkable medieval town and you've got the setting for this long-popular Swiss destination. Don't miss Mount Pilatus (via the world’s steepest cogwheel railway) and the Rigi for nature trails and a famous viewpoint overlooking three lakes.",
+        "image_url": "https://www.travelandleisure.com/thmb/Ha01Q89StBQT3NC_7SXLRL2niQ4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-wide-view-of-lucerne-LUCERNESW0524-a19cf9d86900405099c7fd60d7b06be4.jpg",
+        "entry_fee_usd": 47,
+        "rating": 4.0
+    },
+    {
+        "name": "Blue Ridge Parkway",
+        "address": "North Carolina and Virginia",
+        "description": "The Blue Ridge Parkway may lack Highway 101's ocean scenery, but it trades Pacific views for peaceful Appalachian beauty. Stretching 469 miles from Great Smoky Mountains National Park to Shenandoah National Park, the 45 MPH, no-trucks route winds past overlook after overlook, letting road-trippers marvel at the mountains' dreamy blue hue.",
+        "image_url": "https://www.travelandleisure.com/thmb/XKKwJcBnQFs1kCOuSWXxR7rDvhA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-ridge-parkway-FAMRTUPDATE0521-ad9c3f970de34113af61a7172cb50bad.jpg",
+        "entry_fee_usd": 40,
+        "rating": 4.4
+    },
+    {
+        "name": "Pulau Tioman",
+        "address": "Pahang, Malaysia",
+        "description": "This isn't a tropical island getaway with a wild party scene or a string of upscale resorts. Pulau Tioman is more of a floating nature preserve, with local character and a strong sense of environmental conservation (coral rehab and sea turtle preservation are major focuses for the island's Juara Turtle Project). The island, off the east coast of Peninsular Malaysia in the South China Sea, is popular for its dive sites, shipwrecks, and tropical rainforest.",
+        "image_url": "https://www.travelandleisure.com/thmb/-0JRyyWDHI3tFehNGUiOIBGVMCg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/pulau-tioman-malaysia-MOSTBEAUTIFUL0921-85af4f6330cc4aaa95fc8e04d48e0b6e.jpg",
+        "entry_fee_usd": 35,
+        "rating": 4.3
+    },
+    {
+        "name": "Damaraland",
+        "address": "Namibia",
+        "description": "Damaraland region is an almost mystical vision of red-earth desert plains, flat-topped mountains, a petrified forest, and well-preserved ancient Bushmen rock paintings. Though it looks like a scene from Mars, Damaraland is rich in wildlife, home to lions, elephants, zebras, giraffes, and the critically endangered black rhino.",
+        "image_url": "https://www.travelandleisure.com/thmb/2_rPbI6uwJBp1gjwfFfNuBMnX24=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/damaraland-namibia-MOSTBEAUTIFUL0921-a06e002ece17473283dc9b411eba14ac.jpg",
+        "entry_fee_usd": 16,
+        "rating": 4.4
+    },
+    {
+        "name": "Matira Beach",
+        "address": "Bora-Bora, Polinesia Prancis",
+        "description": "The South Pacific calls up many visions of spectacular beaches. The otherwordly Bora Bora's Matira Beach gets singled out for its miles of pearly white, flour-fine sand, and breathtaking bright turquoise lagoon.",
+        "image_url": "https://www.travelandleisure.com/thmb/D2UniMveTRYtoEPzCzEhUVaYbM0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/matira-beach-french-polynesia-MOSTBEAUTIFUL0921-000a2920f87347ebafba1b518bec4476.jpg",
+        "entry_fee_usd": 42,
+        "rating": 4.0
+    },
+    {
+        "name": "Cirque de Gavarnie",
+        "address": "France",
+        "description": "Cirque de Gavarnie is a popular hiking destination in the Pyrenees and one of the most beautiful in France. Called 'the Colosseum of Nature' by Victor Hugo, the Cirque is a ring of sheer granite mountain walls enclosing a picture-perfect green valley. It's astounding even before you add in three-tier Gavarnie Falls pouring over a 922-foot drop.",
+        "image_url": "https://www.travelandleisure.com/thmb/q_6kAtLOhTwezY-_jAUnHDtOL4k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cirque-de-gavarnie-france-MOSTBEAUTIFUL0921-1fd84106332a47f18b1a8e6a48174fab.jpg",
+        "entry_fee_usd": 30,
+        "rating": 4.2
+    },
+    {
+        "name": "Shark Bay",
+        "address": "Australia",
+        "description": "Shark Bay: where the red earth of Australia's westernmost point meets the teal waters of the Indian Ocean. The bay is home to one of the largest and richest beds of seagrass in the world, as well as rare stromatolites — rocky-looking, cauliflower-shaped microbial reefs and some of the oldest life forms on Earth.",
+        "image_url": "https://www.travelandleisure.com/thmb/aKCR_pNbCOyTsn1MUvPbft3w23k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/shark-bay-western-australia-MOSTBEAUTIFUL0921-fcc8aa9406334d9cbb23e5b11ca5c0c2.jpg",
+        "entry_fee_usd": 24,
+        "rating": 4.8
+    },
+    {
+        "name": "Lofoten Islands",
+        "address": "Norway",
+        "description": "The Lofoten archipelago bursts dramatically out of the Norwegian Sea. Between the jagged peaks and steep slopes are quaint fishing villages, secluded coves, scenic backpacking and biking trails, and dreamy white-sand beaches. You can even get there by train via the Ofotbanen, a luxury rail service that takes you from Oslo up to the Arctic Circle.",
+        "image_url": "https://www.travelandleisure.com/thmb/e6NJgp35WmFpcRfS7Of03nssOVw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lofoten-islands-norway-MOSTBEAUTIFUL0921-cd0b88063a8b4a26871a51764db0fcae.jpg",
+        "entry_fee_usd": 20,
+        "rating": 4.4
+    },
+    {
+        "name": "Los Cabos",
+        "address": "Mexico",
+        "description": "Flanked by the Pacific Ocean and the Gulf of California, Los Cabos' symphony of natural features — desert, mountains, sea, and plenty of sunshine — and yes, raucous party scene, have made it one of the most popular vacation destinations in North America. Its cobalt-blue waters are a hub for diving, snorkeling, kayaking, fishing, and whale watching.",
+        "image_url": "https://www.travelandleisure.com/thmb/a6QFDLqS2SgCPwwaAf5CR-j8ZQg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/los-cabos-mexico-MOSTBEAUTIFUL0921-12c181f937cc46f29e747324194b02fa.jpg",
+        "entry_fee_usd": 26,
+        "rating": 4.5
+    },
+    {
+        "name": "Taormina",
+        "address": "Sicily",
+        "description": "Taormina has all the elements for a gorgeous Mediterranean destination: ancient ruins, a charming old town, and a setting backed by Mount Etna, an active volcano you can summit by foot. One of the highlights is visiting the beach of Isola Bella, a small storied island that you can walk to during low tide.",
+        "image_url": "https://www.travelandleisure.com/thmb/fdhX6B1xE4W6tyikBSKQ2DMgyuk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-greek-theatre--teatro-greco--and-mount-etna--taormina--sicily-637558970-cf863b27fdce457196b83528a38b2f3c.jpg",
+        "entry_fee_usd": 41,
+        "rating": 4.2
+    },
+    {
+        "name": "Dal Lake",
+        "address": "India",
+        "description": "The snow-capped Zabarwan Range rises above Kashmir's romantic Dal Lake, a long-time Himalayan escape for Indians fleeing the south's heat. During the summer, veranda-clad cedar houseboats bob along the lake's western edge while floating markets and brightly painted taxi boats drift by.",
+        "image_url": "https://www.travelandleisure.com/thmb/n_LNUG2_QpI9kANLQo3-t30WHLU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dal-lake-india-MOSTBEAUTIFUL0921-45b28f5eeefc48fa99dd7b90c8eda645.jpg",
+        "entry_fee_usd": 32,
+        "rating": 4.3
+    },
+    {
+        "name": "Great Barrier Reef",
+        "address": "Australia",
+        "description": "The world's largest barrier reef is an unrivaled experience for snorkelers and divers. The sensational underwater world is made up of 2,900 individual reefs, 900 islands, and a mind-boggling diversity of marine life.",
+        "image_url": "https://www.travelandleisure.com/thmb/yp8AfumBILHYCNigRfxDlbRk_sw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/great-barrier-reef-australia-MOSTBEAUTIFUL0921-afddad847a8041e89f9838c3dc06e906.jpg",
+        "entry_fee_usd": 35,
+        "rating": 4.7
+    },
+    {
+        "name": "Wulingyuan Scenic Area",
+        "address": "China",
+        "description": "Thousands of tapering quartz sandstone formations spiral skyward in this 100-square-mile stretch of karst terrain in China's Hunan Province. Beneath the towers lie valleys, streams, waterfalls, caves, natural bridges, and dense green forests.",
+        "image_url": "https://www.travelandleisure.com/thmb/hg63KCn87tIwoyl9yIqlEq050-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wulingyuan-scenic-area-china-MOSTBEAUTIFUL0921-757bfa35e762496e8ff02fbcb8927a14.jpg",
+        "entry_fee_usd": 40,
+        "rating": 4.3
+    },
+    {
+        "name": "Banff National Park",
+        "address": "Canada",
+        "description": "Canada's oldest national park showcases the majesty of the Canadian Rockies in Alberta. Banff is known for its staggering peaks, dense pine forests, hot springs, animals — grizzlies, bighorn sheep, and moose all call the park home, and almost eerily azure glacier-fed lagoons, such as the postcard-perfect Peyto Lake.",
+        "image_url": "https://www.travelandleisure.com/thmb/rL4LVIHUwQBaNRCFf5Gjhf8hEC4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/banff-national-park-alberta-MOSTBEAUTIFUL0921-26a3ea1b54ca49a5a0ea5b759f8f96cd.jpg",
+        "entry_fee_usd": 32,
+        "rating": 4.4
+    },
+    {
+        "name": "Wadi Rum Reserve",
+        "address": "Jordan",
+        "description": "Wadi Rum is a stunning red desert landscape filled with canyons, dunes, mountains, springs, archeological sites, and stone archways. Brave hikers can cross the largest, Burdah Rock Bridge, which is more than 200 feet above the ground.",
+        "image_url": "https://www.travelandleisure.com/thmb/4Zaickuv3yP9YjeHJ5yIoImk9Wk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wadi-rum-jordan-MOSTBEAUTIFUL0921-102d2d1167d04aa7b02648d9699312f4.jpg",
+        "entry_fee_usd": 17,
+        "rating": 3.9
+    },
+    {
+        "name": "Milford Sound/Piopiotahi",
+        "address": "New Zealand",
+        "description": "Glaciers carved this awe-inspiring valley, leaving behind craggy peaks with sheer drops into glistening waters. Part of UNESCO World Heritage Site Te Wahipounamu, the South Island's Milford Sound is blessed with waterfalls, rainbows, rainforests, and a diversity of wildlife — everything from black coral to bottlenose dolphins, with seals and even penguins in between.",
+        "image_url": "https://www.travelandleisure.com/thmb/AP6_urIEQ6925B8pFC5asdaUE-0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TAL-milford-sound-MOSTBEAUTIFUL0824-a1963e700187405b8f03d88b4a0bbe01.jpg",
+        "entry_fee_usd": 40,
+        "rating": 4.4
+    },
+    {
+        "name": "Fernando de Noronha",
+        "address": "Brazil",
+        "description": "Blissfully isolated 217 miles off the Brazilian mainland, this lovingly preserved archipelago offers pristine beaches and clear waters abundant in marine life perfect for world-class snorkeling. The remote island is also a hub for honeymooners looking for a slice of paradise.",
+        "image_url": "https://www.travelandleisure.com/thmb/T10Bqw16FyEdlct5u1Ytc9OjptI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/fernando-de-noronha-brazil-MOSTBEAUTIFUL0921-f0500a8f70314eb385389a63b7324f16.jpg",
+        "entry_fee_usd": 35,
+        "rating": 4.2
+    },
+    {
+        "name": "The Algarve",
+        "address": "Portugal",
+        "description": "Surrounded by the Atlantic to the south and west, Portugal's Algarve region looks and feels like a wild respite. Wind-sculpted cliffs and headlands frame big, sandy beaches popular with surfers and dotted with secret coves and grottoes.",
+        "image_url": "https://www.travelandleisure.com/thmb/C3l_IkgDWCkKBp28drjQ7uenaD0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coastal-algarve-portugal-MOSTBEAUTIFUL0921-4b6c7e68a0cb43df816e3c54ef4b6f67.jpg",
+        "entry_fee_usd": 26,
+        "rating": 4.8
+    },
+    {
+        "name": "Mount Kilimanjaro",
+        "address": "Tanzania",
+        "description": "Solitary Mount Kilimanjaro is one of Africa's most stunning icons, rising more than 19,000 feet from coffee and banana farms up to snowy volcanic peaks. Along the way to 'The Roof of Africa,' hikers trek through distinct climate zones, from rainforest to high-altitude desert to the arctic-like summit.",
+        "image_url": "https://www.travelandleisure.com/thmb/rUkPfXDdTxswBWxj6uXjrrkAJSQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kilimanjaro-tanzania-MOSTBEAUTIFUL0921-64483d5b805b440bacadeb996d3b7502.jpg",
+        "entry_fee_usd": 28,
+        "rating": 4.5
+    },
+    {
+        "name": "Mount Fuji",
+        "address": "Japan",
+        "description": "Both an active volcano and an emblem of serenity, Mount Fuji is one of the world's most magnificent sights. You can hike to the sacred landmark's summit for sweeping views or simply gape at it from Lake Kawaguchi and elsewhere in the beautiful Five Lakes region. Head to the spa town of Hakone in winter to pair crisp Fuji views with steaming hot springs.",
+        "image_url": "https://www.travelandleisure.com/thmb/8nJS52RnNoQuqF_1mlwr24UO0aw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mt-fuji-japan-MOSTBEAUTIFUL0921-413f7d67bb4f4539a336ebba14f74ed2.jpg",
+        "entry_fee_usd": 36,
+        "rating": 4.6
+    },
+    {
+        "name": "Li River",
+        "address": "China",
+        "description": "The Li River carves through the lowland farms and jagged karst terrain of northwestern Guangxi, creating some of China's most picturesque scenery (the area is so pretty, it appears on the 20 yuan banknote). A four- to five-hour river cruise from Guilin to Yangshuo is the most popular way to experience Li River, though travelers wanting more autonomy can rent bamboo rafts or hike — the natural moon-shaped arch of Moon Hill makes a glorious lookout.",
+        "image_url": "https://www.travelandleisure.com/thmb/-rnxmxDNa8I-U3uBnzMjwrEfebs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/li-river-china-MOSTBEAUTIFUL0921-478c3f1b5c2641a79015eec0223ea0c8.jpg",
+        "entry_fee_usd": 33,
+        "rating": 4.1
+    },
+    {
+        "name": "Lake Como",
+        "address": "Italy",
+        "description": "Lake Como has been one of Italy's most popular vacation spots since the time of the Roman emperors. This unabashedly high-rolling resort area still attracts a posh crowd with its lush gardens, cinematic palaces and villas, and sun-soaked alpine shores. Take the funicular to the tiny village of Brunate for an amazing panorama.",
+        "image_url": "https://www.travelandleisure.com/thmb/i2BW2xguQ9e3ThfWyeIc9SWVBpM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lake-como-MOSTBEAUTIFUL0921-cb08f3beff1041e4beefc67b5e956b23.jpg",
+        "entry_fee_usd": 42,
+        "rating": 4.3
+    },
+    {
+        "name": "Crater Lake National Park",
+        "address": "Oregon",
+        "description": "Like so many of Earth's most stunning sights, Crater Lake is the result of earth-altering, volcanic forces. Its 1,943-foot depth makes it the deepest lake in the U.S., filled with mesmerizingly deep blue waters fed by rain and snow. View its perfection from hiking trails, boat tours, and the 33-mile Rim Drive around the caldera. Keep in mind, some attractions like boat tours and the scenic Rim Drive close for the winter season.",
+        "image_url": "https://www.travelandleisure.com/thmb/k0YEx95IyjWz6xnDkEX8AklVTUU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/crater-lake-national-park-oregon-MOSTBEAUTIFUL0921-98d8a182066d4fa9beae0629073a749d.jpg",
+        "entry_fee_usd": 34,
+        "rating": 3.9
+    },
+    {
+        "name": "Big Sur",
+        "address": "California",
+        "description": "Even considering California's 840 miles of monumental coastline, it's hard to rival the beauty of Big Sur. Thick redwood forest, foggy canyons, and rocky cliffs tumbling into the Pacific define this area (the name refers to both the town and the coastal region), made all the more famous for its freewheeling NorCal vibes and Old Hollywood history.",
+        "image_url": "https://www.travelandleisure.com/thmb/SVZUunwzaKAXpWconi201GOAt5s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BixbyBridge_MakitoUmekita01-81eb692524d84c09a66aa6c320acd886.jpg",
+        "entry_fee_usd": 26,
+        "rating": 4.2
+    },
+    {
+        "name": "Great Smoky Mountains",
+        "address": "North Carolina and Tennessee",
+        "description": "With half a million acres split by Tennessee and North Carolina, this famous park's wondrous mountain scenery encompasses hardwood forests, steep-sided ravines cut by rivers and streams, and brilliant wildflowers in bloom from spring to fall. Hikers have 150 trails available to them, from the Appalachian Trail’s Charlies Bunion hike to the more challenging Rainbow Falls route.",
+        "image_url": "https://www.travelandleisure.com/thmb/HYpSEHrmiQcnnZvl710WWvabx-4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/great-smoky-mountains-MOSTBEAUTIFUL0921-942c7e39aa8a43c489a9d2915d2f218b.jpg",
+        "entry_fee_usd": 31,
+        "rating": 4.3
+    },
+    {
+        "name": "Volcanoes National Park",
+        "address": "Rwanda",
+        "description": "The scenery alone — waterfalls, calderas, misty bamboo forests — makes Volcanoes National Park a worthy contender of any travel list. The mystical setting is all the more special for hosting buffaloes, birds, golden monkeys, and the elusive mountain gorilla.",
+        "image_url": "https://www.travelandleisure.com/thmb/OVx8lQPwtO320YGFDwpxFM9qhRs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/volcanoes-national-park-rwanda-MOSTBEAUTIFUL0921-eefbcc5ff59b4beab8c32b5fa25f9740.jpg",
+        "entry_fee_usd": 30,
+        "rating": 3.8
+    }
+]
